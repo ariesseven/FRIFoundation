@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FRIFoundation_Tests' do
+  pod 'FRIFoundation', :path => '../'
+  
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - FRIFoundation (0.1.0)
+
+DEPENDENCIES:
+  - FRIFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  FRIFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FRIFoundation: fda69c442e7a397f6d689d044f24b430977dd370
+
+PODFILE CHECKSUM: 71d282d2d6523dac87e0428dc0988b44dbadc4d3
+
+COCOAPODS: 1.8.3
